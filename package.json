@@ -1,7 +1,7 @@
 {
   "name": "test-bot-server",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "build": "rimraf dist && tsc",
     "predev": "npm run build",
